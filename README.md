@@ -10,7 +10,7 @@ Copy the scripts to the following location on your filesystem: `/Users/<username
 
 Select the portion of text which you wish to modify and right click on the selection to display the context menu. Then navigate to ***Services*** (at the bottom of the list) and choose the desired quick action. 
 
-For faster access, you can alternatively set up a combination of keys for each quick action. You can do this by going to ***System Preferences -> Keyboard -> Shortcuts*** where you can type the combination of your choice on the right-hand side. For example, you could use ***CTRL + CMD + B*** for invoking the ***Add Bold Tags*** workflow.
+For faster access, you can alternatively set up a combination of keys for each quick action. You can do this by going to ***System Preferences -> Keyboard -> Shortcuts*** and then clicking on the ***Services*** item on the left-hand side. Now you can find the newly-added services by scrolling in the panel on the right-hand side and here you can create a shortcut of choice (just click on the rightmost area of each row). For example, you could use ***CTRL + CMD + B*** for invoking the ***Add Bold Tags*** workflow.
 
 # Example
 
